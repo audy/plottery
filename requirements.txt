@@ -1,0 +1,4 @@
+numpy
+PyCairo
+jupyter[notebook]
+numpy
